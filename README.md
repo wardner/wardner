@@ -23,4 +23,4 @@ I'm a backend engineer passionate about software development. I love working wit
 - ⚡ Fun fact:
   - Like to play Basquetball and Voleyball 🏀 🏐
   - Love to create things and learn.
-  - Like Videogames ___Smash bross__ 🎮
+  - Like Videogames __Smash bross__ 🎮
